@@ -1,0 +1,52 @@
+{  
+    "emailSubject":"YHobbs API Test 3 Please DocuSign: TPS REPORT`.pdf",
+    "status":"sent",
+    "compositeTemplates":[  
+        {  
+            "serverTemplates":[  
+                {  
+                    "sequence":"1",
+                    "templateId":"54045b4d-4ac0-4cf9-a3a2-816634c9e8f9"
+                }
+            ],
+            "inlineTemplates":[  
+                {  
+                    "sequence":"1",
+                    "recipients":{  
+                        "signers":[  
+                            {  
+                                "name":"John Doe",
+                                "email":"cecillia.ashworth@docusign.com",
+                                "recipientId":"83039351",
+                                "roleName":"Signer 1"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {  
+            "serverTemplates":[  
+                {  
+                    "sequence":"2",
+                    "templateId":"cfeed870-e7ce-41c2-9b46-165c3905d7ce"
+                }
+            ],
+            "inlineTemplates":[  
+                {  
+                    "sequence":"2",
+                    "recipients":{  
+                        "signers":[  
+                            {  
+                                "name":"Jane Doe",
+                                "email":"yumiaahobbs@gmail.com",
+                                "recipientId":"1",
+                                "roleName":"Signer 2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
